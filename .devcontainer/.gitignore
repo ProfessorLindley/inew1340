@@ -1,0 +1,15 @@
+# Build output
+bin/
+obj/
+
+# Editor and OS files
+.vs/
+*.user
+*.suo
+.DS_Store
+Thumbs.db
+
+# Local databases (added in Module 5)
+*.db
+*.db-shm
+*.db-wal
