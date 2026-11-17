@@ -13,5 +13,8 @@
       ]
     }
   },
-  "postCreateCommand": "dotnet --version"
+  "postCreateCommand": "dotnet --version",
+  "containerEnv": {
+    "TZ": "America/Chicago"
+  }
 }
